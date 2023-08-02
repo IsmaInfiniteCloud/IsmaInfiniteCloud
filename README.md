@@ -53,10 +53,6 @@ I'm an Analyst Programmer with a passion for building software applications, and
 📈 Data Science
 🚀 MLOps (Machine Learning Operations)
 
-### GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=prs,issues,contribs)
-
 
 Feel free to reach out to me if you have any questions or want to discuss any interesting projects, especially related to Data Science and MLOps!
 
