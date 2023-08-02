@@ -2,7 +2,7 @@
 
 ![DevOps](devops.gif)
 
-I'm an Analyst Programmer with a passion for building software applications, and I have a keen interest in Data Science and MLOps. My expertise includes Java, Jakarta EE, Spring, Angular, .NET, Python, CICD, Microservices, AWS, Docker, BDD/TDD, Data Science, MLOps, and Linux.
+I'm an Analyst Programmer with a passion for building software applications, and I have a keen interest in Data Science and MLOps. My expertise includes Python, Java, Jakarta EE, Spring, Angular, .NET, Python, CICD, Microservices, AWS, Docker, BDD/TDD, Data Science, MLOps, and Linux.
 
 ### Skills and Technologies
 
