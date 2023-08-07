@@ -4,17 +4,17 @@
 <h1 align="center">
 <h3 align="center">I'm an Analyst Programmer with a passion for building software applications, and I have a keen interest in Data Science and MLOps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manou141&label=Profile%20views&color=0e75b6&style=flat" alt="manou141" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IsmaInfiniteCloud&label=Profile%20views&color=0e75b6&style=flat" alt="IsmaInfiniteCloud" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manou141" alt="manou141" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IsmaInfiniteCloud" alt="IsmaInfiniteCloud" /></a> </p>
 
-- 🔭 I’m currently working on [Escapade](https://github.com/manou141/Escapade_27_Juin)
+- 🔭 I’m currently working on [Escapade](https://github.com/IsmaInfiniteCloud/Escapade_27_Juin)
 
 - 🌱 I’m currently learning **Laravel,React**
 
-- 👯 I’m looking to collaborate on [LaraShop](https://github.com/manou141/LaraShop)
+- 👯 I’m looking to collaborate on [LaraShop](https://github.com/IsmaInfiniteCloud/LaraShop)
 
-- 🤝 I’m looking for help with [LaraShop](https://github.com/manou141/LaraShop)
+- 🤝 I’m looking for help with [LaraShop](https://github.com/IsmaInfiniteCloud/LaraShop)
 
 - 💬 Ask me about **Python, Java, Jakarta EE, Spring, Angular, .NET, Python, CICD, Microservices, AWS, Docker, BDD/TDD, Data Science, MLOps, and Linux.**
 
