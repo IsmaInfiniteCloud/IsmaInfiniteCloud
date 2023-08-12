@@ -7,7 +7,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsmaInfiniteCloud&label=Profile%20views&color=0e75b6&style=flat" alt="IsmaInfiniteCloud" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IsmaInfiniteCloud" alt="IsmaInfiniteCloud" /></a> </p>
+### Skills and Technologies
 
+📊 Analyste Programmeur
+☕ Java
+🌍 Jakarta EE
+🌱 Spring
+🔷 Angular
+🌐 .NET
+🐍 Python
+🔄 CICD (Continuous Integration and Continuous Deployment)
+🧩 Microservices
+☁️ AWS (Amazon Web Services)
+🐳 Docker
+🧪 BDD/TDD (Behavior-Driven Development / Test-Driven Development)
+🐧 Linux
+📈 Data Science
+🚀 MLOps (Machine Learning Operations)
 - 🔭 I’m currently working on [Escapade](https://github.com/IsmaInfiniteCloud/Escapade_27_Juin)
 
 - 🌱 I’m currently learning **Laravel,React**
@@ -33,25 +49,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IsmaInfiniteCloud&show_icons=true&locale=en" alt="IsmaInfiniteCloud" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IsmaInfiniteCloud&" alt="IsmaInfiniteCloud" /></p>
-I'm an Analyst Programmer with a passion for building software applications, and I have a keen interest in Data Science and MLOps. My expertise includes Python, Java, Jakarta EE, Spring, Angular, .NET, Python, CICD, Microservices, AWS, Docker, BDD/TDD, Data Science, MLOps, and Linux.
 
-### Skills and Technologies
 
-📊 Analyste Programmeur
-☕ Java
-🌍 Jakarta EE
-🌱 Spring
-🔷 Angular
-🌐 .NET
-🐍 Python
-🔄 CICD (Continuous Integration and Continuous Deployment)
-🧩 Microservices
-☁️ AWS (Amazon Web Services)
-🐳 Docker
-🧪 BDD/TDD (Behavior-Driven Development / Test-Driven Development)
-🐧 Linux
-📈 Data Science
-🚀 MLOps (Machine Learning Operations)
 
 
 Feel free to reach out to me if you have any questions or want to discuss any interesting projects, especially related to Data Science and MLOps!
