@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Ismail
 
 ![DevOps](devops.gif)
+![banner](B.png)
 <h1 align="center">
 <h3 align="center">I'm an Analyst Programmer with a passion for building software applications, and I have a keen interest in Data Science and MLOps.</h3>
 
