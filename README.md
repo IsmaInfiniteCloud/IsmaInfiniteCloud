@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IsmaInfiniteCloud" alt="IsmaInfiniteCloud" /></a> </p>
 ### Skills and Technologies
 
-📊 Analyste Programmeur
+📊 Programmer Analyst
 ☕ Java
 🌍 Jakarta EE
 🌱 Spring
@@ -54,6 +54,6 @@
 
 
 
-Feel free to reach out to me if you have any questions or want to discuss any interesting projects, especially related to Data Science and MLOps!
+Feel free to reach out if you have any questions or want to discuss any interesting projects, especially related to Data Science and MLOps!
 
-Looking forward to connecting with you! 😄
+Looking forward to connecting with you! 
