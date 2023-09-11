@@ -3,7 +3,7 @@
 ![DevOps](devops.gif)
 ![banner](B.png)
 <h1 align="center">
-<h3 align="center">I'm anAnalyst Programmer with a passion for building software applications, and have a keen interest in Data Science and MLOps</h3>
+<h3 align="center">I'm an Analyst Programmer with a passion for building software applications, and have a keen interest in Data Science and MLOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsmaInfiniteCloud&label=Profile%20views&color=0e75b6&style=flat" alt="IsmaInfiniteCloud" /> </p>
 
